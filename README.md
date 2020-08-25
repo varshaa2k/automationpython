@@ -1,5 +1,5 @@
 # automationpython
-Here i have done automation using python . The automation tast done here is 
+Here i have done automation using python . The automation task done here is 
 1. Open crome 
 2.type youtube.com 
 3.sign in with our gmail 
